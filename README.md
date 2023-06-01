@@ -8,7 +8,7 @@ HTML tags are used to identify different elements of a web page. Tags are always
 
 Some common HTML tags include:
 
-<h1>: This tag is used to create a heading level 1.
+_#<h1>: This tag is used to create a heading level 1.
 <p>: This tag is used to create a paragraph.
 <img>: This tag is used to insert an image into a web page.
 <ul>: This tag is used to create an unordered list.
